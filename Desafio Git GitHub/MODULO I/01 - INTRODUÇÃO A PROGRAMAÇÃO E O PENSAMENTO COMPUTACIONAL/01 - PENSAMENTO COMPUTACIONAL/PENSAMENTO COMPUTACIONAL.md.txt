@@ -1,0 +1,66 @@
+# Objetivo
+
+Apresentar os conceitos que caracterizam o pensamento computacional, permitindo que o Dev entenda o que significa pensar computacionalmente.
+
+- Pilares: Decomposição
+  - Dividir um problema complexo em subproblemas
+- Pilares: Padrões
+  - Identificar padrões ou tendências
+  - Similaridades e diferenças entre os problemas
+- Pilares: Abstração
+  - Extrapolar o conceito do problema para um forma generalista
+- Pilares: Algoritmos
+  - Automatizar
+  - Definir passo a passo a solução do problema.
+  - Construção de algoritmos
+    - Narrativa - Utilização da linguagem natural
+    - Fluxograma - Utilização de símbolos pré-definidos
+    - Pseudocódigo - Portugol
+
+### Habilidades
+
+- Raciocínio Lógico
+
+  Raciocínio lógico é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema. 
+
+  - Sintética
+    - Indução - Leis e teorias
+    - Dedução - Previsões e explicações
+
+  - Analítica 
+    - Abdução - Premissa, Processo investigativo, Diagnósticos
+
+- Aperfeiçoamento
+
+  - Melhoramento
+  - Aprimoramento
+  - Refinamento
+  - Ato de aperfeiçoar
+
+## Técnicas de Lógica de Programação
+- Linear
+
+  - Modelo tradicional
+
+    • Não tem vínculo
+    • Estrutura hierárquica
+    • Programação de computadores
+
+- Estrutural 
+
+  - Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato)
+
+- Modular
+
+  - Controlada por um conjunto de regras
+
+
+
+## Fundamentos de algoritmos
+- Variável - pode assumir qualquer um dos valores
+  de um determinado conjunto de valores
+  - Mutável
+  - Possui variações
+  - Incerto
+  - Inconstante
+  - Instável

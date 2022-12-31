@@ -1,0 +1,33 @@
+## Códigos do Git/GitHub
+
+- Git Init = Inicializa um código
+- Git add * =|Mover arquivos
+- Git commit - m = Criar commit
+- Git config list = Listar 
+- Git config --global user.name " "
+- Git config --global user.email " "
+- Git Log
+- Git Status = Monitoramento da situação dos arquivos
+- ls 
+- Cd .. = Retornar uma pasta
+- mkdir = criar uma pasta
+- rmdir = excluir uma pasta
+- mv = Comando para mover pasta
+- Git push origin main = Fazer upload dos dados para o GitHub
+- Git pull origin main = Fazer download dos dados alterados no GitHub
+- ls -a = Mostrar arquivos ocultos
+- Clear = Limpar tela
+- CRTL+L = Limpar tela
+- Sha1 = Organização de 40 caracteres de identificação do arquivo
+- Branch =
+- echo > README.md = Criar arquivo
+
+### Tracked
+
+- Unmodified - Arquivo existente que não sofreu modificação.
+- Modified - Arquivo existente que sofreu modificação e esta aguardando o processo de commit.
+- Staged - Estado em que o arquivo esta aguardando a transferência para o commit.
+
+### Untracked
+
+- Arquivo não adicionado no Git.
