@@ -1,8 +1,59 @@
-#title, .subtitle, .post_title {
-    color:blue;
+body{
+background: blueviolet;
+margin: auto;
 }
 
-.post_title {
+.body_imagem{
+border-radius: 50px;
+}
+.section_titlesub{
+    background: white;
+    padding: 40xp;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+.section_subtitle {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.section_subtitle_imagem{
+    border-radius: 100%;
+}
+.article_post{
+    background:white;
+    padding: 10px 15px;
+    border: 3xp solid black;
+    margin: 10px;
+}
+.article_texto{
+    font-weight:bold ;
+}
+.article_post_title {
     font-size: 16px;
     font-style: italic;
+}
+
+.footer_poster{
+    background: white;
+    padding: 5px;
+    border: 3px solid black;
+    margin: 10px;    
+    font-size: 16px;
+    font-style:italic;
+    color:black;    
+}
+
+.footer_list{
+    list-style-type: square;
+    padding-left: 15px;
+}
+
+.footer_list li a {
+    color: blue;
+}
+#title, .section_subtitle, .article_post_title {
+    color:black
+    
 }
